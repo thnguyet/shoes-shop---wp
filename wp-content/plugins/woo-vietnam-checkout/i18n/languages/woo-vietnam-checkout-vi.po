@@ -1,0 +1,343 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Vietnam Checkout for WooCommerce\n"
+"POT-Creation-Date: 2025-07-16 02:42+0700\n"
+"PO-Revision-Date: 2025-09-08 07:51+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: devvn-woo-address-selectbox.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#. Plugin Name of the plugin/theme
+#: devvn-woo-address-selectbox.php:208
+msgid "Vietnam Checkout for WooCommerce"
+msgstr "Vietnam Checkout for WooCommerce"
+
+#: devvn-woo-address-selectbox.php:209
+msgid "Woo VN Checkout"
+msgstr "Woo VN Checkout"
+
+#: devvn-woo-address-selectbox.php:245 devvn-woo-address-selectbox.php:842
+msgid "Full name"
+msgstr "Họ và tên"
+
+#: devvn-woo-address-selectbox.php:246 devvn-woo-address-selectbox.php:843
+msgctxt "placeholder"
+msgid "Type Full name"
+msgstr "Nhập họ và tên"
+
+#: devvn-woo-address-selectbox.php:255
+msgid "Type your phone"
+msgstr "Nhập số điện thoại"
+
+#: devvn-woo-address-selectbox.php:259
+msgid "Type your email"
+msgstr "Nhập địa chỉ email"
+
+#: devvn-woo-address-selectbox.php:262 devvn-woo-address-selectbox.php:325
+#: devvn-woo-address-selectbox.php:801
+msgid "Province/City"
+msgstr "Tỉnh/Thành phố"
+
+#: devvn-woo-address-selectbox.php:266 devvn-woo-address-selectbox.php:329
+msgctxt "placeholder"
+msgid "Select Province/City"
+msgstr "Chọn Tỉnh/Thành phố"
+
+#: devvn-woo-address-selectbox.php:267 devvn-woo-address-selectbox.php:330
+msgid "Select Province/City"
+msgstr "Chọn Tỉnh/Thành phố"
+
+#: devvn-woo-address-selectbox.php:271 devvn-woo-address-selectbox.php:334
+#: devvn-woo-address-selectbox.php:853
+msgid "Ward/Commune"
+msgstr "Phường/Xã"
+
+#: devvn-woo-address-selectbox.php:275 devvn-woo-address-selectbox.php:338
+#: devvn-woo-address-selectbox.php:858
+msgctxt "placeholder"
+msgid "Select Ward/Commune"
+msgstr "Chọn Phường/Xã"
+
+#: devvn-woo-address-selectbox.php:281 devvn-woo-address-selectbox.php:344
+msgctxt "placeholder"
+msgid "Ex: No. 20, 90 Alley"
+msgstr "Nhập địa chỉ cụ thể. Số nhà, tên đường..."
+
+#: devvn-woo-address-selectbox.php:305
+msgid "Recipient full name"
+msgstr "Tên đầy đủ của người nhận"
+
+#: devvn-woo-address-selectbox.php:306
+msgctxt "placeholder"
+msgid "Recipient full name"
+msgstr "Tên đầy đủ của người nhận"
+
+#: devvn-woo-address-selectbox.php:314
+msgid "Recipient phone"
+msgstr "Số điện thoại người nhận"
+
+#: devvn-woo-address-selectbox.php:315
+msgctxt "placeholder"
+msgid "Recipient phone"
+msgstr "Số điện thoại người nhận"
+
+#: devvn-woo-address-selectbox.php:434 devvn-woo-address-selectbox.php:691
+msgid "No value"
+msgstr "Không có giá trị"
+
+#: devvn-woo-address-selectbox.php:435
+msgid "Phone number is incorrect"
+msgstr "Số điện thoại không đúng"
+
+#: devvn-woo-address-selectbox.php:436
+msgid "Loading..."
+msgstr "Đang tải..."
+
+#: devvn-woo-address-selectbox.php:437
+msgid "Phone number does not exist"
+msgstr "Số điện thoại không tồn tại"
+
+#: devvn-woo-address-selectbox.php:655
+msgid "Phone number of the recipient"
+msgstr "Số điện thoại của người nhận"
+
+#: devvn-woo-address-selectbox.php:665
+msgid "Shipping Phone:"
+msgstr "Số điện thoại người nhận:"
+
+#: devvn-woo-address-selectbox.php:684
+msgid "Delete the selected boxes?"
+msgstr "Xóa các hộp đã chọn?"
+
+#: devvn-woo-address-selectbox.php:777
+msgid "Upgrade to Pro"
+msgstr "Nâng cấp lên Pro"
+
+#: devvn-woo-address-selectbox.php:778
+msgid "Settings"
+msgstr "Cài đặt"
+
+#: devvn-woo-address-selectbox.php:887 devvn-woo-address-selectbox.php:958
+msgid "First name"
+msgstr "Tên"
+
+#: devvn-woo-address-selectbox.php:891 devvn-woo-address-selectbox.php:962
+msgid "Last name"
+msgstr "Họ"
+
+#: devvn-woo-address-selectbox.php:895 devvn-woo-address-selectbox.php:966
+msgid "Company"
+msgstr "Công ty"
+
+#: devvn-woo-address-selectbox.php:899 devvn-woo-address-selectbox.php:970
+msgid "Country"
+msgstr "Quốc gia"
+
+#: devvn-woo-address-selectbox.php:903 devvn-woo-address-selectbox.php:974
+msgid "Select a country&hellip;"
+msgstr "Chọn quốc gia&hellip;"
+
+#: devvn-woo-address-selectbox.php:906 devvn-woo-address-selectbox.php:977
+msgid "Tỉnh/thành phố"
+msgstr "Tỉnh/thành phố"
+
+#: devvn-woo-address-selectbox.php:911 devvn-woo-address-selectbox.php:982
+msgid "Phường/Xã"
+msgstr "Phường/Xã"
+
+#: devvn-woo-address-selectbox.php:915 devvn-woo-address-selectbox.php:986
+msgid "Chọn Phường/Xã&hellip;"
+msgstr "Chọn Phường/Xã&hellip;"
+
+#: devvn-woo-address-selectbox.php:918
+msgid "Xã/phường/thị trấn"
+msgstr "Xã/phường/thị trấn"
+
+#: devvn-woo-address-selectbox.php:922
+msgid "Chọn xã/phường/thị trấn&hellip;"
+msgstr "Chọn xã/phường/thị trấn&hellip;"
+
+#: devvn-woo-address-selectbox.php:925 devvn-woo-address-selectbox.php:989
+msgid "Address line 1"
+msgstr "Địa chỉ 1"
+
+#: devvn-woo-address-selectbox.php:929
+msgid "Email address"
+msgstr "Địa chỉ email"
+
+#: devvn-woo-address-selectbox.php:932
+msgid "Phone"
+msgstr "Số điện thoại"
+
+#: devvn-woo-address-selectbox.php:1010 devvn-woo-address-selectbox.php:1064
+msgid "Choose an option"
+msgstr "Chọn một sự lựa chọn"
+
+#: devvn-woo-address-selectbox.php:1016
+msgid "required"
+msgstr "required"
+
+#: devvn-woo-address-selectbox.php:1209
+#, php-format
+msgid ""
+"<strong>Mua bản quyền để được tự động update. <a href=\"%s\" "
+"target=\"_blank\">Xem thêm thông tin mua bản quyền</a></strong> hoặc liên hệ "
+"mua trực tiếp qua <a href=\"%s\" target=\"_blank\">facebook</a>"
+msgstr ""
+"<strong>Mua bản quyền để được tự động update. <a href=\"%s\" "
+"target=\"_blank\">Xem thêm thông tin mua bản quyền</a></strong> hoặc liên hệ "
+"mua trực tiếp qua <a href=\"%s\" target=\"_blank\">facebook</a>"
+
+#: includes/class-vncheckout-vnd-paypal-standard.php:82
+#, php-format
+msgid ""
+"The prices will be converted to %1$s in the PayPal pages with the exchange "
+"rate %2$s."
+msgstr "Giá sẽ được chuyển đổi thành %1$s trên trang PayPal với tỷ giá %2$s."
+
+#: includes/options-page.php:18
+msgid "Chuyển ₫ sang VNĐ"
+msgstr "Chuyển ₫ sang VNĐ"
+
+#: includes/options-page.php:20
+msgid "Cho phép chuyển sang VNĐ"
+msgstr "Cho phép chuyển sang VNĐ"
+
+#: includes/options-page.php:25
+msgid "Loại bỏ tiêu đề vận chuyển"
+msgstr "Loại bỏ tiêu đề vận chuyển"
+
+#: includes/options-page.php:27
+msgid "Loại bỏ hoàn toàn tiêu đề của phương thức vận chuyển"
+msgstr "Loại bỏ hoàn toàn tiêu đề của phương thức vận chuyển"
+
+#: includes/options-page.php:31
+msgid "Ẩn phương thức khi có free-shipping"
+msgstr "Ẩn phương thức khi có free-shipping"
+
+#: includes/options-page.php:33
+msgid "Ẩn tất cả những phương thức vận chuyển khác khi có miễn phí vận chuyển"
+msgstr "Ẩn tất cả những phương thức vận chuyển khác khi có miễn phí vận chuyển"
+
+#: includes/options-page.php:37 includes/options-page.php:94
+msgid "Số quy đổi"
+msgstr "Số quy đổi"
+
+#: includes/options-page.php:40
+msgid "Thương số quy đổi. Mặc định theo Viettel Post là 6000"
+msgstr "Thương số quy đổi. Mặc định theo Viettel Post là 6000"
+
+#: includes/options-page.php:44
+msgid "Kích hoạt chuyển đổi VNĐ sang USD"
+msgstr "Kích hoạt chuyển đổi VNĐ sang USD"
+
+#: includes/options-page.php:46
+msgid "Kích hoạt chuyển đổi VNĐ sang USD để có thể sử dụng paypal"
+msgstr "Kích hoạt chuyển đổi VNĐ sang USD để có thể sử dụng paypal"
+
+#: includes/options-page.php:50
+msgid "VNĐ quy đổi sang tiền"
+msgstr "VNĐ quy đổi sang tiền"
+
+#: includes/options-page.php:97
+msgid "Tỷ giá quy đổi từ VNĐ"
+msgstr "Tỷ giá quy đổi từ VNĐ"
+
+#: includes/options-page.php:101
+msgid "Alepay"
+msgstr "Alepay"
+
+#: includes/options-page.php:103
+msgid "Hiển thị trường First Name"
+msgstr "Hiển thị trường First Name"
+
+#: includes/options-page.php:110
+msgid "Hiển thị trường Quốc Gia"
+msgstr "Hiển thị trường Quốc Gia"
+
+#: includes/options-page.php:117
+msgid "Hiện trường Postcode"
+msgstr "Hiện trường Postcode"
+
+#: includes/options-page.php:122 includes/options-page.php:124
+msgid "Lấy địa chỉ tự động"
+msgstr "Lấy địa chỉ tự động"
+
+#: includes/options-page.php:130
+msgid "Cấu hình ReCaptcha"
+msgstr "Cấu hình ReCaptcha"
+
+#: includes/options-page.php:132
+msgid "Sử dụng recaptcha"
+msgstr "Sử dụng recaptcha"
+
+#: includes/options-page.php:138
+msgid "Bộ lọc"
+msgstr "Bộ lọc"
+
+#: includes/options-page.php:140
+msgid "Kích hoạt bộ lọc"
+msgstr "Kích hoạt bộ lọc"
+
+#. Plugin URI of the plugin/theme
+msgid ""
+"https://levantoan.com/plugin-tinh-phi-van-chuyen-cho-quan-huyen-trong-"
+"woocommerce/"
+msgstr ""
+"https://levantoan.com/plugin-tinh-phi-van-chuyen-cho-quan-huyen-trong-"
+"woocommerce/"
+
+#. Description of the plugin/theme
+msgid ""
+"Add province/city, district, commune/ward/town to checkout form and simplify "
+"checkout form"
+msgstr ""
+"Add province/city, district, commune/ward/town to checkout form and simplify "
+"checkout form"
+
+#. Author of the plugin/theme
+msgid "Lê Văn Toản"
+msgstr "Lê Văn Toản"
+
+#. Author URI of the plugin/theme
+msgid "https://levantoan.com"
+msgstr "https://levantoan.com"
+
+#~ msgid "District"
+#~ msgstr "Quận/Huyện"
+
+#~ msgctxt "placeholder"
+#~ msgid "Select District"
+#~ msgstr "Chọn Quận/Huyện"
+
+#~ msgid "Commune/Ward/Town"
+#~ msgstr "Xã/Phường/Thị trấn"
+
+#~ msgid "Quận/huyện"
+#~ msgstr "Quận/huyện"
+
+#~ msgid "Chọn quận/huyện&hellip;"
+#~ msgstr "Chọn quận/huyện&hellip;"
+
+#~ msgid "Ẩn mục phường/xã"
+#~ msgstr "Ẩn mục phường/xã"
+
+#~ msgid "KHÔNG bắt buộc nhập phường/xã"
+#~ msgstr "KHÔNG bắt buộc nhập phường/xã"
+
+#~ msgid "Không bắt buộc"
+#~ msgstr "Không bắt buộc"
